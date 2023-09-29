@@ -29,7 +29,7 @@
 
 		"outerColor": [197, 224, 224],
 		"innerColor": [255, 248, 242],
-		"favoredReligion": "iun-sun-ny"
+		"favoredReligion": "Shinto"
 		"uniqueName": "Diplomatic Researchs",
 		"uniques": ["Science gained from research agreements [+40]%","When declaring friendship, both parties gain a [+30]% boost to great person generation","Receive a tech boost when scientific buildings/wonders are built in capital","Free [Great Scientist] appears <after discovering [Education]>","Free [Great Scientist] appears <after discovering [Scientific Theory]>"],
 		"cities": ["Vyun","A-Qira","Si-ho","Sukai","Ke-lu","Lium","Fety-u","Qa-elyn","Qarlae",
