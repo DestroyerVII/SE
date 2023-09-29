@@ -31,7 +31,7 @@
 		"innerColor": [255, 248, 242],
 		"favoredReligion": "iun-sun-ny"
 		"uniqueName": "Diplomatic Researchs",
-		"uniques": ["Science gained from research agreements [+40]%","When declaring friendship, both parties gain a [+30]% boost to great person generation","Receive a tech boost when scientific buildings/wonders are built in capital","<after discovering [Education]> Free [Great Scientist] appears","<after discovering [Scientific Theory]> Free [Great Scientist] appears"],
+		"uniques": ["Science gained from research agreements [+40]%","When declaring friendship, both parties gain a [+30]% boost to great person generation","Receive a tech boost when scientific buildings/wonders are built in capital","Free [Great Scientist] appears <after discovering [Education]>","Free [Great Scientist] appears <after discovering [Scientific Theory]>"],
 		"cities": ["Vyun","A-Qira","Si-ho","Sukai","Ke-lu","Lium","Fety-u","Qa-elyn","Qarlae",
 			"Phulnoith","Iun-Si-ho","Iun-Lium","La-ele","Siamyun","Qa-liny","Iun-A-Qira","La-myn","Mianzum","Sindyium",
 			"Yam-in","Syumian","Winyam","Qa-lin","Sury-nam","Qa-sun","Isaka","Iun-Sukai","Jing Xiu","Kichiro",
