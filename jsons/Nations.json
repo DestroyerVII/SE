@@ -1,38 +1,41 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Solar Empire",
+		"leaderName": "Qa-len",
+		"adjective": ["Solarian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "The Solar Empire is a pacific nation, ruled by Empress Qa-len, looking for the peace between all the Earth. The great technological advances of this nation have made it one of the greatest influences on the world stage." 
+		"startIntroPart2": "Great leader, is your time to put this nation to the rise. Use the power of the sun as your allie and make the peace throught the world.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "I am not fine with this, but war is war.",
+		"attacked": "You thouhght just because we are peaceful, you can just attack us without a massive counterattack? So let's see how this will end...",
+		"defeated": "I don't belive it. Our thecnologies wasn't stronger then the enemies arms.",
+		"introduction": "Hello. We are a peacefull nation. If you don't bother us, we can be friends in the future!",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Whats bring you here?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralNo": ["We can't accept it.","Sorry, but no.","I refuse."],
+		"neutralYes": ["That's good.","Of course, yes.","Thanks, we accept your offer with gratitude."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "What is the matter now?",
+		"hateLetsHearIt": ["What is it?","What do you say about this?","Go on!"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","We can't accept from unfriendly nations."],
+		"hateYes": ["I think that works...","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "At least peace. This is better for everyone.",
+		"tradeRequest": "Our nation has a comercial offer to you. We think you will like it.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"outerColor": [197, 224, 224],
+		"innerColor": [255, 248, 242],
+		"favoredReligion": "iun-sun-ny"
+		"uniqueName": "Diplomatic Researchs",
+		"uniques": ["[+2 Science] from every specialist [in all cities]","Receive a tech boost when scientific buildings/wonders are built in capital","[-50]% City-State Influence degradation","City-State territory always counts as friendly territory"],
+		"cities": ["Vyun","A-Qira","Si-ho","Sukai","Ke-lu","Lium","Fety-u","Qa-elyn","Qarlae",
+			"Phulnoith","Iun-Si-ho","Iun-Lium","La-ele","Siamyun","Qa-liny","Iun-A-Qira","La-myn","Mianzum","Sindyium",
+			"Yam-in","Syumian","Winyam","Qa-lin","Sury-nam","Qa-sun","Isaka","Iun-Sukai","Jing Xiu","Kichiro",
+			"?","Suk-Ayame","Hatsue","Sung-su","Hiraqa","Yaeko"]
+		"spyNames": ["A-Qira", "Quin-sun", "Li-suyn", "Amenylum", "Jun-sun", "Qa-lyn", "Sun-lam", "Qarym", "Sunyam", "Yamasyn"]
+	},
 ]
