@@ -1,29 +1,39 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
+		"name": "Type 11 Ten Qoo Missile Tank",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Solar Empire",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"replaces": "Mobile SAM",
+		"movement": 4,
+		"interceptRange": 2,
+		"strength": 70,
+		"cost": 400,
+		"requiredTech": "Rocketry",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>",
+			"[+180]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
+		"attackSound": "missile"
 	},
 	{
-		"name": "Admiral A-Qira",
-		"unitType": "Civilian",
+		"name": "VTOL Gunship",
+		"unitType": "Helicopter",
 		"uniqueTo": "Solar Empire",
-		"replaces": "Great General",
-		"uniques": [
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 2
+		"replaces": "Helicopter Gunship",
+		"movement": 8,
+		"strength": 75,
+		"cost": 440,
+		"requiredTech": "Computers",
+		"uniques": ["[+120]% Strength <vs [Armored] units>", "No defensive terrain bonus", "All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Can move after attacking"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Type-9 Foo-Unn VTOL Transport",
+		"unitType": "Helicopter",
+		"uniqueTo": "Solar Empire",
+		"movement": 8,
+		"strength": 10,
+		"cost": 360,
+		"requiredTech": "Computers",
+		"uniques": "No defensive terrain bonus", "All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Can carry [3] [Gunpowder] units", "Can transform to []",
+		"attackSound": "machinegun"
 	},
 ]
